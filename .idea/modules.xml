@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springBoot-mongodb/springBoot.mongodb.iml" filepath="$PROJECT_DIR$/springBoot-mongodb/springBoot.mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBoot.sundexu.example.iml" filepath="$PROJECT_DIR$/springBoot.sundexu.example.iml" />
+    </modules>
+  </component>
+</project>
