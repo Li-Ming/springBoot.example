@@ -1,6 +1,6 @@
-package guru.springframework.repositories;
+package anxin.springframework.repositories;
 
-import guru.springframework.domain.Product;
+import anxin.springframework.domain.Product;
 import org.springframework.data.repository.CrudRepository;
 
 /**

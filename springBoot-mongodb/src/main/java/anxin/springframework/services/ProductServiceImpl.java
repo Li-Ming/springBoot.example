@@ -1,9 +1,9 @@
-package guru.springframework.services;
+package anxin.springframework.services;
 
-import guru.springframework.commands.ProductForm;
-import guru.springframework.converters.ProductFormToProduct;
-import guru.springframework.domain.Product;
-import guru.springframework.repositories.ProductRepository;
+import anxin.springframework.commands.ProductForm;
+import anxin.springframework.converters.ProductFormToProduct;
+import anxin.springframework.domain.Product;
+import anxin.springframework.repositories.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,7 @@
-package guru.springframework.services;
+package anxin.springframework.services;
 
-import guru.springframework.commands.ProductForm;
-import guru.springframework.domain.Product;
+import anxin.springframework.commands.ProductForm;
+import anxin.springframework.domain.Product;
 
 import java.util.List;
 

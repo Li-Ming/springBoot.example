@@ -1,7 +1,7 @@
-package guru.springframework.converters;
+package anxin.springframework.converters;
 
-import guru.springframework.commands.ProductForm;
-import guru.springframework.domain.Product;
+import anxin.springframework.commands.ProductForm;
+import anxin.springframework.domain.Product;
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;
 
