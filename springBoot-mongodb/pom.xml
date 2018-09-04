@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>springBoot.sundexu.example</groupId>
+    <groupId>springBoot.sdx.example</groupId>
     <artifactId>springBoot.mongodb</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
